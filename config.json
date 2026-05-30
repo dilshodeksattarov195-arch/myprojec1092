@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedalculate",
+        "uuid": 7212660,
+        "checksum": "5su7yn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
